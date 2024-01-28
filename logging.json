@@ -1,0 +1,3744 @@
+{
+    "guilds": {
+        "1010134124490666025": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "1052935217930850335"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "875385866258886676": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1038382724215476256": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "894501041721184286": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1045980852527583292": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "918877829792407672": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "585725492079099925": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049315490872442950": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1019529276896329778": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "996137339715866635": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1019262566704353483": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1011500300714131536": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1016960892421812284": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "1052596137355395225"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [
+                    "1052596137355395225"
+                ],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "974709365066043503": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "950635426757107763": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "415630676050706433": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "954667126323544094": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "874295624676311040": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "792751715258073088": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "989483577219633172": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "911168381737115658": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026912449858904135": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "981897582336958485": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "983378175906177074"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "993825015906697297": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1021208070170345483": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050118567024144405": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1043210958857830490": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "973836719587733514": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "926880884639035443": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1022506232227057775": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1051865144180875334": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "986509843886133279": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1022455866076708934": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1041280060344258679": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050265421951017010": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "950587318199263242": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "850309920133873664": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1031258898780393513": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "859054465859190814": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049588580449792050": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "981128093852921856": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1032253707724800030": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "934840933193764895": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1032251143490912306": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1012336343654867009": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1025457548045844510": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1034190298743586856": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "899185873411784744": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1039840110310596669": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049600923195949107": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1013857318032650300": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1032263464342794290": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "877276106745593926": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "878574136421646376": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "973833197609680896": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1009423044063789057": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1032252174039789609": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1038777165958893568": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1032253204722892890": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "908299536399757322": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "975876203544195093": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "877837063532191775": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "949977417177505792": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "898234397675909170": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "946707483492249656": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1003327394305806396": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1005882198580281445": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "660784216568496140": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "999915670349299752": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "870528607192248340": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1039845805613387839": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1052245863390527498": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "1053716953430237184",
+                    "1052248978009362463"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1005511863733334137": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1051175680857092138": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1040905835565559809": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1041239115653451776": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "1046389927329419325"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "867289491681443870": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "793926948921278474": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1043880166851625011": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "992392075616202752": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "565375052623904778": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1045722114059157504": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1023558280364183692": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "992263123903975607": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1052259173326393478": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1040340284933951538": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1012386651969945611": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1021016432743563295": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "956568046040936499": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "996158138849955881"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1000094400715690074": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "985057748880334889": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1036275580880035961": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1035375892005928990": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "871426187560378409": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "997864553637486692": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "994243722260791306": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049962454010048562": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1020915768944234506": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1038868410576146492": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1028273923894300764": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1005868661128577174": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1017082636809805854": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1047161220140114000": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1035467968773107714": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1034016091464269834": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1019221263014711387": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049623138385805333": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1027529615440351242": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1019900131128135694": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "892963221168853022": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "915090094791221299": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1018514008191545354": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "913449500369096714": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "908987599434162197": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "899567511492771861": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1029636686398885900": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1052431155808452719": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1044224013544730666": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "987743249034788904": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "1051530029781241866"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "832992004694081556": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1030735959924416552": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026113176326115449": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "883026827487105144": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050822860463157331": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "949374354012114986": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1023674206132641873": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1015073795649839185": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "929345582689034250": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "977148072482209862": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1010531336240500806": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050458740601659422": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1035068503004299274": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "987223491927498803": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1038720810589896795": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1004648576317669426": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1010814860784828456": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1046400726378758176": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1038777258174857246": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1051896966839275620": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1000780674409701488": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "935826007578013696": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1000405006375211088": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1040142455586181171": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "961005405096513608": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1048511691320733727": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "970529383523704942": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "965600588337385533": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "940282250463961180": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "949628468650459187": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "972808867182424085": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1039472695106088970": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1047194275793866803": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "906567284636659752": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1017515433496162364": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1006881946296651906": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1047031588430553159": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "968189304704753767": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1036266029137010728": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050358181336981554": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "992664614607274014": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1034318722086752308": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "828976510403608616": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "987255281308282881": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050442982358257816": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1037176463457259571": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "915906879639670784": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1016920040068632648": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1017613522856845343": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "933899139551461396": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "991963593727803403": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "972058117355474994": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1048986240449515520": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1015125929632215131": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1027551743359336489": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049458120625246258": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1045600353695043585": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "937667968417009685": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1035913261385797675": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1030671259324907562": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1008362353705881671": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1040854550157996065": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1046434459643289701": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "1053702940713566278"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "991550283144507422": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "892254832524681297": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "978937811677880360": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1001714300072759386": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1010145019094651000": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1016578677519175700": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1033401278690250854": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "992853890829648012": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "781584375031529553": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1052695897034735680": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "982740698514210847": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1051090862618193971": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1032917957174628422": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1048887888810623026": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1048622518656847882": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1051428382090461195": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1052946326641463327": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1036538197787803658": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "976759120826859531": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1040638524069785650": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1045804489837400095": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1037004807552122911": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1033075442875367424": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1012744333574811748": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1041634358886404116": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "970615465812574238": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1053718925772341309": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "993546912751956038": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "781144941731643392": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1052534689962938430": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "912025872750477332": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "919549280920928346": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1017822579010060410": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "845236192500645928": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1052216049904406568": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "801656636136489001": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "962516344237068328": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1037362923410046976": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026674955666071612": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026675353705525258": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026330781624307752": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026323307739492392": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026330717925412935": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026330918824202250": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026318735482552383": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1017105928698466344": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "997343609059807312": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026331000646664253": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026331433473679451": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026331079193395240": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026324696465154078": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026331334983024692": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026320083477344366": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1026326303588233226": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1024363612069965955": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1041011432617152714": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "937384891581087787": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1028906780652212234": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1027901615929307248": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1036273309236609064": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1047749293727031336": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "749876339296698420": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1046758339926839326": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "985926199425499188": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1048858799638839366": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050733387209519164": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "881174167922278452": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "972142466952208424": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050508623631110284": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049004692069437470": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049007301786337432": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1047580937661190284": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049004722322935889": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049007421332398171": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049007471030718494": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049007522092171344": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049004600373555290": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049004565359501393": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049007361039269938": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049004759048261754": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1041224405264633908": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1049004635718959115": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "790097150691246110": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1033315508646314064": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "913220723839991808": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1045542489072861214": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "849263035175534602": {
+            "logging": {
+                "logall": false,
+                "channel": [
+                    "1053903353328963594",
+                    "1053918890347995146"
+                ],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1054247513672130591": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1037687840617799751": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1054264489807200336": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1054313809713573889": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1040177401625325579": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050797291096772618": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1030479788034506792": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1051969937041797121": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1050438176998690938": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "110373943822540800": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1039049214572908574": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "997145946133631028": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "989410765805064192": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "949616784300998736": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1054661552915107941": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1045406993017471046": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1042005833279606804": {
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        }
+    }
+}
