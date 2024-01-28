@@ -9,7 +9,7 @@ class hacker1111111111(commands.Cog):
     """Games commands"""
   
     def help_custom(self):
-		      emoji = '<:astroz_games:1037958499021377576>'
+		      emoji = '👻'
 		      label = "Games"
 		      description = ""
 		      return emoji, label, description

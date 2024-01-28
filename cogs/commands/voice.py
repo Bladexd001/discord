@@ -9,7 +9,7 @@ class hacker111111111111(commands.Cog):
     """Voice commands"""
   
     def help_custom(self):
-		      emoji = '<:jk_voice:1050949645678940210>'
+		      emoji = '👀'
 		      label = "Voice"
 		      description = ""
 		      return emoji, label, description

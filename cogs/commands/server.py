@@ -8,7 +8,7 @@ class hacker11111111(commands.Cog):
     """Welcome commands"""
   
     def help_custom(self):
-		      emoji = '<:PartneredServerOwner:1033787680032575508>'
+		      emoji = '❤️'
 		      label = "Server"
 		      description = ""
 		      return emoji, label, description

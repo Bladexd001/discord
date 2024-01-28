@@ -9,7 +9,7 @@ class hacker1111(commands.Cog):
     """Raidmode commands"""
   
     def help_custom(self):
-		      emoji = '<:jk_automod:1050949024443809852>'
+		      emoji = '👑'
 		      label = "Automod"
 		      description = ""
 		      return emoji, label, description

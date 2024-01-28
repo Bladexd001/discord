@@ -3,45 +3,61 @@ import discord
 from discord.ext import commands
 from core import Context
 import aiohttp
-from discord.ui import Select,View,Button
+from discord.ui import Select, View, Button
 import time
 
 from typing import Any
 
-class NotVoter(commands.CheckFailure):
-  pass
 
+class NotVoter(commands.CheckFailure):
+    pass
 
 
 async def check_voter(mem):
-  async with aiohttp.ClientSession(headers={"Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwMTI2MjcwODgyMzIxNjUzNzYiLCJib3QiOnRydWUsImlhdCI6MTY3MDU4MzE3NH0.WULUKASz45RZduUMpTCqzHt0nPk3MqnpeJHF3YNgBo8"}) as session:
-    async with session.get(f"https://top.gg/api/bots/1012627088232165376/check?userId={str(mem)}") as response:
-      vote = await response.json()
-      if vote["voted"] == 1 or mem in []:
-        response.close()
-        return "okay"
-      else:
-        response.close()
-        return "not okay"
+    async with aiohttp.ClientSession(
+            headers=
+        {
+            "Authorization":
+            "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwMTI2MjcwODgyMzIxNjUzNzYiLCJib3QiOnRydWUsImlhdCI6MTY3MDU4MzE3NH0.WULUKASz45RZduUMpTCqzHt0nPk3MqnpeJHF3YNgBo8"
+        }) as session:
+        async with session.get(
+                f"https://top.gg/api/bots/1012627088232165376/check?userId={str(mem)}"
+        ) as response:
+            vote = await response.json()
+            if vote["voted"] == 1 or mem in []:
+                response.close()
+                return "okay"
+            else:
+                response.close()
+                return "not okay"
 
 
 def is_voter():
-  async def predicate(ctx: Context):
-    async with aiohttp.ClientSession(headers={"Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwMTI2MjcwODgyMzIxNjUzNzYiLCJib3QiOnRydWUsImlhdCI6MTY3MDU4MzE3NH0.WULUKASz45RZduUMpTCqzHt0nPk3MqnpeJHF3YNgBo8"}) as session:
-      async with session.get(f"https://top.gg/api/bots/1012627088232165376/check?userId={str(ctx.author.id)}") as response:
-        vote = await response.json()
-        if vote["voted"] == 1 or ctx.author.id in ctx.bot.owner_ids:
-          response.close()
-          return True
-        else:
-          response.close()
-          raise NotVoter()
-  
-  return commands.check(predicate)
+
+    async def predicate(ctx: Context):
+        async with aiohttp.ClientSession(
+                headers=
+            {
+                "Authorization":
+                "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwMTI2MjcwODgyMzIxNjUzNzYiLCJib3QiOnRydWUsImlhdCI6MTY3MDU4MzE3NH0.WULUKASz45RZduUMpTCqzHt0nPk3MqnpeJHF3YNgBo8"
+            }) as session:
+            async with session.get(
+                    f"https://top.gg/api/bots/1012627088232165376/check?userId={str(ctx.author.id)}"
+            ) as response:
+                vote = await response.json()
+                if vote["voted"] == 1 or ctx.author.id in ctx.bot.owner_ids:
+                    response.close()
+                    return True
+                else:
+                    response.close()
+                    raise NotVoter()
+
+    return commands.check(predicate)
 
 
 def DotEnv(query: str):
-  return os.getenv(query)
+    return os.getenv(query)
+
 
 def updateDB(guildID, data):
     with open("database.json", "r") as config:
@@ -52,14 +68,13 @@ def updateDB(guildID, data):
         config.write(newdata)
 
 
-      
 def getDB(guildID):
     with open("database.json", "r") as config:
         data = json.load(config)
     if str(guildID) not in data["guilds"]:
         defaultConfig = {
             "welcome": {
-                "autodel": 60,
+                "autodel": 0,
                 "channel": [],
                 "color": "",
                 "embed": False,
@@ -77,12 +92,22 @@ def getDB(guildID):
             "vcrole": {
                 "bots": "",
                 "humans": ""
+            },
+            "logging": {
+                "logall": False,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
             }
         }
         updateDB(guildID, defaultConfig)
         return defaultConfig
     return data["guilds"][str(guildID)]
-
 
 
 def getConfig(guildID):
@@ -94,7 +119,7 @@ def getConfig(guildID):
             "antiLink": False,
             "whitelisted": [],
             "punishment": "ban",
-            "prefix": "@",
+            "prefix": "B.",
             "staff": None,
             "vip": None,
             "girl": None,
@@ -103,16 +128,16 @@ def getConfig(guildID):
             "owner": None,
             "coown": None,
             "headadmin": None,
-            "admin": None, 
+            "admin": None,
             "mod": None,
             "gmod": None,
-            "gadmin": None,  
-            "headmod": None,  
+            "gadmin": None,
+            "headmod": None,
             "wlrole": None
         }
         updateConfig(guildID, defaultConfig)
         return defaultConfig
-    return data["guilds"][str(guildID)] 
+    return data["guilds"][str(guildID)]
 
 
 def updateConfig(guildID, data):
@@ -153,6 +178,7 @@ def update_vanity(guild, code):
 
 
 def blacklist_check():
+
     def predicate(ctx):
         with open("blacklist.json") as f:
             data = json.load(f)
@@ -163,37 +189,28 @@ def blacklist_check():
     return commands.check(predicate)
 
 
-
-
-
-
-
-    
 def restart_program():
     python = sys.executable
     os.execl(python, python, *sys.argv)
 
 
-
-
 def getbadges(userid):
-  with open("badges.json", "r") as f:
-    data = json.load(f)
-  if str(userid) not in data:
-    default = []
-    makebadges(userid, default)
-    return default
-  return data[str(userid)]
+    with open("badges.json", "r") as f:
+        data = json.load(f)
+    if str(userid) not in data:
+        default = []
+        makebadges(userid, default)
+        return default
+    return data[str(userid)]
+
 
 def makebadges(userid, data):
-  with open("badges.json", "r") as f:
-    badges = json.load(f)
-  badges[str(userid)] = data
-  new = json.dumps(badges, indent=4, ensure_ascii=False)
-  with open("badges.json", "w") as w:
-    w.write(new)
-
-
+    with open("badges.json", "r") as f:
+        badges = json.load(f)
+    badges[str(userid)] = data
+    new = json.dumps(badges, indent=4, ensure_ascii=False)
+    with open("badges.json", "w") as w:
+        w.write(new)
 
 
 def getanti(guildid):
@@ -205,6 +222,7 @@ def getanti(guildid):
         return default
     return data["guilds"][str(guildid)]
 
+
 def updateanti(guildid, data):
     with open("anti.json", "r") as config:
         config = json.load(config)
@@ -212,15 +230,6 @@ def updateanti(guildid, data):
     newdata = json.dumps(config, indent=4, ensure_ascii=False)
     with open("anti.json", "w") as config:
         config.write(newdata)
-
-
-
-
-
-
-
-
-
 
 
 class Timer:
@@ -294,10 +303,6 @@ def format_seconds(seconds: float, *, friendly: bool = False) -> str:
     return f"{day}{hour}{minsec}"
 
 
-
-
-
-
 def updatelog(guildID, data):
     with open("logging.json", "r") as config:
         config = json.load(config)
@@ -307,7 +312,6 @@ def updatelog(guildID, data):
         config.write(newdata)
 
 
-      
 def loggingDB(guildID):
     with open("logging.json", "r") as config:
         data = json.load(config)
@@ -322,20 +326,12 @@ def loggingDB(guildID):
                 "rolelog": [],
                 "channellog": [],
                 "modlog": [],
-                "voicelog": [] 
-                
+                "voicelog": []
             }
         }
         updatelog(guildID, defaultConfig)
         return defaultConfig
     return data["guilds"][str(guildID)]
-
-
-
-
-
-
-
 
 
 def add_channel_to_ignore(user_id: int) -> None:
@@ -357,9 +353,8 @@ def remove_channel_from_ignore(user_id: int) -> None:
         json.dump(file_data, file, indent=4)
 
 
-
-
 def ignore_check():
+
     def predicate(ctx):
         with open("ignore.json") as f:
             data = json.load(f)

@@ -12,21 +12,16 @@ from .commands.music import Music
 from .commands.moderation import Moderation
 from .commands.anti import Security
 from .commands.raidmode import Automod
-from .commands.logging import Logging
 from .commands.welcome import Welcomer
 from .commands.fun import Fun
 from .commands.Games import Games
 from .commands.extra import Utility
 from .commands.owner import Owner
 from .commands.vcroles import Voice
-
 from .commands.role import Server
 from .commands.nsfw import Nsfw
-from .commands.vanityroles import Vanityroles
-from .commands.logging import Logging
-
 from .commands.ignore import Ignore
-from .commands.gw import Giveaways
+from .commands.vanityroles import Vanityroles
 
 #____________ Events _____________
 from .events.antiban import antiban
@@ -57,7 +52,7 @@ from .commands.general1 import hacker11
 from .commands.music1 import hacker111
 from .commands.raidmode1 import hacker1111
 from .commands.welcome1 import hacker11111
-from .commands.logging2 import hacker111111
+#from .commands.logging2 import hacker111111
 from .commands.Nsfw2 import hacker1111111
 from .commands.server import hacker11111111
 from .commands.mod2 import hacker111111111
@@ -80,7 +75,6 @@ async def setup(bot: Astroz):
   await bot.add_cog(Moderation(bot))
   await bot.add_cog(Security(bot))
   await bot.add_cog(Automod(bot))
-  #await bot.add_cog(Logging(bot))
   await bot.add_cog(Welcomer(bot))
   await bot.add_cog(Fun(bot))
   await bot.add_cog(Games(bot))
@@ -89,11 +83,9 @@ async def setup(bot: Astroz):
   await bot.add_cog(Owner(bot))
   await bot.add_cog(Server(bot))
   await bot.add_cog(Nsfw(bot))
-  await bot.add_cog(Logging(bot))
- 
+  await bot.add_cog(Vanityroles(bot))
   await bot.add_cog(Ignore(bot))
-  await bot.add_cog(Giveaways(bot))
- 
+
 ####################
 
 
@@ -103,7 +95,6 @@ async def setup(bot: Astroz):
   await bot.add_cog(hacker111(bot))
   await bot.add_cog(hacker1111(bot))
   await bot.add_cog(hacker11111(bot))
-  await bot.add_cog(hacker111111(bot))  
   await bot.add_cog(hacker1111111(bot))
   await bot.add_cog(hacker11111111(bot))
   await bot.add_cog(hacker111111111(bot))

@@ -9,7 +9,7 @@ class hacker11111(commands.Cog):
     """Welcome commands"""
   
     def help_custom(self):
-		      emoji = '<a:jk_wlc:1025242738679103549>'
+		      emoji = '💖'
 		      label = "Welcomer"
 		      description = ""
 		      return emoji, label, description

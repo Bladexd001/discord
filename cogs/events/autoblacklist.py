@@ -20,8 +20,8 @@ class AutoBlacklist(Cog):
       if retry:
         if message.content == astroz or message.content == "<@!1012627088232165376>":
           add_user_to_blacklist(message.author.id)
-          embed = discord.Embed(description="**Successfully Blacklisted {} For Spam Mentioning Me!**".format(message.author.mention),color=0x00FFE4)
-          embed.set_thumbnail( url="https://media.discordapp.net/attachments/1036538198236614676/1037664035186954270/blue_circle.jpg")
+          embed = discord.Embed(description="**Successfully Blacklisted {} For Spam Mentioning Me!**".format(message.author.mention),color=0x2f3136)
+          embed.set_thumbnail( url=self.client.user.display_avatar.url)
           await message.channel.send(embed=embed)
 
 
@@ -31,6 +31,6 @@ class AutoBlacklist(Cog):
       retry = bucket.update_rate_limit()
       if retry:
         add_user_to_blacklist(ctx.author.id)
-        embed = discord.Embed(description="**Successfully Blacklisted {} For Spamming My Commands!**".format(ctx.author.mention),color=0x00FFE4)
-        embed.set_thumbnail( url="https://media.discordapp.net/attachments/1036538198236614676/1037664035186954270/blue_circle.jpg")
+        embed = discord.Embed(description="**Successfully Blacklisted {} For Spamming My Commands!**".format(ctx.author.mention),color=0x2f3136)
+        embed.set_thumbnail( url=self.client.user.display_avatar.url)
         await ctx.reply(embed=embed)

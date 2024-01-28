@@ -9,7 +9,7 @@ class hacker111(commands.Cog):
     """Music commands"""
   
     def help_custom(self):
-		      emoji = '<:jk_music:1050948864422707240>'
+		      emoji = '🥹'
 		      label = "Music"
 		      description = ""
 		      return emoji, label, description

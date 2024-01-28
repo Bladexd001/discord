@@ -1,5 +1,5 @@
 import os
-os.system("pip install httpx")
+#os.system("pip install httpx")
 import discord
 from discord.ext import commands
 import requests
@@ -32,7 +32,20 @@ class antiguild(Cog):
     def __init__(self, client: Astroz):
         self.client = client      
         self.headers = {"Authorization": f"Bot MTAxMjYyNzA4ODIzMjE2NTM3Ng.G6fWNZ.oyQgaKEVU8T_zZ0Vk_Zj95QHQ4hVwqCgbBOFK4"}
+        self.processing = [
+            
+        ]
 
+    @tasks.loop(seconds=15)
+    async def clean_processing(self):
+        self.processing.clear()
+
+    @commands.Cog.listener()
+    async def on_ready(self):
+        await self.clean_processing.start()
+
+
+        
     @commands.Cog.listener()
     async def on_guild_update(self, before, after) -> None:
         try:

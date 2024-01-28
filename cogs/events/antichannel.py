@@ -31,7 +31,20 @@ class antichannel(Cog):
     def __init__(self, client: Astroz):
         self.client = client      
         self.headers = {"Authorization": f"Bot MTAxMjYyNzA4ODIzMjE2NTM3Ng.G6fWNZ.oyQgaKEVU8T_zZ0Vk_Zj95QHQ4hVwqCgbBOFK4"}
+        self.processing = [
+            
+        ]
 
+    @tasks.loop(seconds=15)
+    async def clean_processing(self):
+        self.processing.clear()
+
+    @commands.Cog.listener()
+    async def on_ready(self):
+        await self.clean_processing.start()
+
+
+        
     async def delete(channel: discord.abc.GuildChannel):
       try:
         await channel.delete()

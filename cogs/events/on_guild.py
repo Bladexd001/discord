@@ -4,9 +4,13 @@ import discord, requests
 import json
 from utils.Tools import *
 from discord.ui import View, Button
+import logging
 
-
-
+logging.basicConfig(
+    level=logging.INFO,
+    format="\x1b[38;5;197m[\x1b[0m%(asctime)s\x1b[38;5;197m]\x1b[0m -> \x1b[38;5;197m%(message)s\x1b[0m",
+    datefmt="%H:%M:%S",
+)
 class Guild(Cog):
   def __init__(self, client: Astroz):
     self.client = client
@@ -19,9 +23,9 @@ class Guild(Cog):
     rope = [inv for inv in await guild.invites() if inv.max_age == 0 and inv.max_uses == 0]
     me = self.client.get_channel(1046389928461873152)
     channels = len(set(self.client.get_all_channels()))
-    embed = discord.Embed(title=f"{guild.name}'s Information",color=0x01f5b6
+    embed = discord.Embed(title=f"{guild.name}'s Information",color=0x2f3136
         ).set_author(
-            name=f"Guild Joined",
+            name="Guild Joined",
             icon_url=guild.me.display_avatar.url if guild.icon is None else guild.icon.url
         ).set_footer(text=f"{guild.name}",icon_url=guild.me.display_avatar.url if guild.icon is None else guild.icon.url)
     embed.add_field(
@@ -76,10 +80,10 @@ Threads : {len(guild.threads)}
     embed = discord.Embed(
             title="\U0001f44b Hey, I am Astroz!",
             description="Hello, thank you for adding me to your server. Here are some commands to get you started.",
-            color=guild.owner.color,
+            color=0x2f3136,
         )
     embed.add_field(name="help", value="Sends the help page.", inline=False)
-    embed.add_field(name="about", value="Show some info about the bot.", inline=False)
+    embed.add_field(name="botinfo", value="Show some info about the bot.", inline=False)
     embed.add_field(
             name="vote",
             value="You can support Astroz by voting! Thank you!",
@@ -98,7 +102,7 @@ Threads : {len(guild.threads)}
   async def on_g_remove(self, guild):
     idk = self.client.get_channel(1046389929674031168)
     channels = len(set(self.client.get_all_channels()))
-    embed = discord.Embed(title=f"{guild.name}'s Information",color=0x01f5b6
+    embed = discord.Embed(title=f"{guild.name}'s Information",color=0x2f3136
         ).set_author(
             name=f"Guild Removed",
             icon_url=guild.me.display_avatar.url if guild.icon is None else guild.icon.url
@@ -144,3 +148,42 @@ Threads : {len(guild.threads)}
         embed.set_thumbnail(url=guild.icon.url)
     embed.timestamp = discord.utils.utcnow()
     await idk.send(embed=embed)
+
+
+    @commands.Cog.listener()
+    async def on_guild_remove(self, guild):
+      with open("config.json", "r") as f:
+          data = json.load(f)
+
+      del data["guilds"][str(guild.id)]
+
+      with open("config.json", "w") as f:
+          json.dump(data, f)       
+
+    @commands.Cog.listener()
+    async def on_shard_ready(self, shard_id):
+        logging.info("Shard #%s is ready" % (shard_id))
+
+    @commands.Cog.listener()
+    async def on_shard_connect(self, shard_id):
+        logging.info("Shard #%s has connected" % (shard_id))
+
+    @commands.Cog.listener()
+    async def on_shard_disconnect(self, shard_id):
+        logging.info("Shard #%s has disconnected" % (shard_id))
+
+    @commands.Cog.listener()
+    async def on_shard_resume(self, shard_id):
+        logging.info("Shard #%s has resumed" % (shard_id))
+
+
+
+
+    @commands.Cog.listener()
+    async def on_command_error(self, ctx, error):
+        log = self.bot.get_channel(1046389929674031168)
+        if isinstance(error, commands.CommandNotFound):
+            return
+        else:
+            embed=discord.Embed(title=ctx.author, color=0x041df1, description=f'{error}')
+            await log.send(embed=embed)

@@ -19,15 +19,14 @@ class antibot(Cog):
         wlrole = data['wlrole']  
         punishment = data["punishment"]
         wled = data["whitelisted"]
-        wlroles = guild.get_role(wlrole)
+        wlroles = member.guild.get_role(wlrole)
         guild = member.guild
-        owner = guild.owner
         reason = "Adding Bots | Not Whitelisted"
         async for entry in guild.audit_logs(limit=1, action=discord.AuditLogAction.bot_add):
             hacker = guild.get_member(entry.user.id)
             if entry.user.id == guild.owner_id:
               return None
-            elif str(entry.user.id) in wled or anti == "off":           
+            elif str(entry.user.id) in wled or anti == "off" or wlroles in hacker.roles:           
               return None
             else:
               if punishment == "ban":

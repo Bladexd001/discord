@@ -5,6 +5,10 @@ from discord.utils import *
 from discord import *
 from utils.Tools import *
 
+from discord.utils import get
+from utils.Tools import getDB
+
+
 
 
 class Vcroles2(Cog):

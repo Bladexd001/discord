@@ -36,6 +36,8 @@ class antipinginv(Cog):
         self.spam_control = commands.CooldownMapping.from_cooldown(10, 12.0, commands.BucketType.user)
 
 
+        
+
     @commands.Cog.listener()
     async def on_message(self, message):
       button = Button(emoji="<:jk_inv:1051073323284561940>",label="Invite", url =  "https://discord.com/oauth2/authorize?client_id=1012627088232165376&permissions=2113268958&scope=bot")
@@ -83,10 +85,9 @@ class antipinginv(Cog):
                 
             else:
 
-              embed = discord.Embed(description=f"""\nMy Prefix Here Is: `{prefix}`\nVoice Region: `null`\nServer Id: `{guild.id}`\n\nType `{prefix}help` To Get The Command List.""",color=0x01f5b6) 
-              if guild.icon is not None:
-                  embed.set_author(  name=f"Settings For {guild.name}", icon_url=guild.icon.url)
-              embed.set_thumbnail(url ="https://cdn.discordapp.com/attachments/1046389928461873152/1051072348985503814/20221127_152853_0000.png")
+              embed = discord.Embed(description=f"""\nMy Prefix Here Is: `{prefix}`\nVoice Region: `null`\nServer Id: `{guild.id}`\n\nType `{prefix}help` To Get The Command List.""",color=0x2f3136) 
+              embed.set_author(name="Astroz", icon_url=self.client.user.display_avatar.url)
+              embed.set_thumbnail(url =self.client.user.display_avatar.url)
               if guild.icon is not None:
                   embed.set_footer(  text=guild.name, icon_url=guild.icon.url)
               view = View()

@@ -8,7 +8,7 @@ class hacker1111111(commands.Cog):
     """Welcome commands"""
   
     def help_custom(self):
-		      emoji = '<:jk_canal_nsfw:1053691647294185543>'
+		      emoji = '🤮'
 		      label = "Nsfw"
 		      description = ""
 		      return emoji, label, description

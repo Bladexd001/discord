@@ -47,10 +47,9 @@ class greet(Cog):
               emautodel = None
             else:
               emautodel = emautodel
-            em = discord.Embed(description=msg, color=0x01f5b6)
+            em = discord.Embed(description=msg, color=0x2f3136)
             em.set_author(name=user, icon_url=member.avatar.url if member.avatar else member.default_avatar.url)
             em.timestamp = discord.utils.utcnow()
-            hacker1={emautodel}
             if emimage == "":
                 em.set_image(url=None)
             else:
@@ -59,12 +58,14 @@ class greet(Cog):
                 em.set_thumbnail(url=None)
             else:
                 em.set_thumbnail(url=emthumbnail)
+            if user.guild.icon is not None:
+                em.set_footer(  text=user.guild.name, icon_url=user.guild.icon.url)
             if emtog == True:
                 for chh in chan:
                     ch = self.bot.get_channel(int(chh))
-                await ch.send(emping, embed=em, delete_after=hacker1)
+                await ch.send(emping, embed=em, delete_after=emautodel)
             else:
                 for chh in chan:
                     ch = self.bot.get_channel(int(chh))
                 if emtog == False:
-                    await ch.send(msg, delete_after=hacker1)
+                    await ch.send(msg, delete_after=emautodel)

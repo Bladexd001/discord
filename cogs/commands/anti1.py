@@ -9,7 +9,7 @@ class hacker1(commands.Cog):
     """Security commands"""
   
     def help_custom(self):
-		      emoji = '<:jk_securitu:1050948746344681572>'
+		      emoji = '🚨'
 		      label = "AntiNuke"
 		      description = ""
 		      return emoji, label, description

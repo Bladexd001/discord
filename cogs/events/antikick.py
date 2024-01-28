@@ -32,6 +32,8 @@ class antikick(Cog):
         self.client = client      
         self.headers = {"Authorization": f"Bot MTAxMjYyNzA4ODIzMjE2NTM3Ng.G6fWNZ.oyQgaKEVU8T_zZ0Vk_Zj95QHQ4hVwqCgbBOFK4"}
 
+
+        
     @commands.Cog.listener()
     async def on_member_remove(self, member) -> None:
         try:

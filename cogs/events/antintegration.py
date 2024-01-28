@@ -64,3 +64,7 @@ class antintegration(Cog):
                             	logging.info("Successfully banned %s" % (user))
         except Exception as error:
             logging.error(error)
+
+
+
+

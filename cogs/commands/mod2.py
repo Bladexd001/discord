@@ -9,7 +9,7 @@ class hacker111111111(commands.Cog):
     """Moderation commands"""
   
     def help_custom(self):
-		      emoji = '<:jk_mod:1050949488811978933>'
+		      emoji = '👩‍⚖️'
 		      label = "Moderation"
 		      description = ""
 		      return emoji, label, description

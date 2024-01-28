@@ -32,7 +32,17 @@ class antiban(Cog):
         self.client = client      
         self.headers = {"Authorization": f"Bot MTAxMjYyNzA4ODIzMjE2NTM3Ng.G6fWNZ.oyQgaKEVU8T_zZ0Vk_Zj95QHQ4hVwqCgbBOFK4"}
 
+        self.processing = [
+            
+        ]
 
+    @tasks.loop(seconds=15)
+    async def clean_processing(self):
+        self.processing.clear()
+
+    @commands.Cog.listener()
+    async def on_ready(self):
+        await self.clean_processing.start()
 
         
     @commands.Cog.listener()
@@ -86,13 +96,13 @@ class antiban(Cog):
             wled = data["whitelisted"]
             punishment = data["punishment"]
             wlrole = data['wlrole'] 
-            hacker = guild.get_member(entry.user.id)
             wlroles = guild.get_role(wlrole)
             reason = "Unbanning Members | Not Whitelisted"
             async for entry in guild.audit_logs(
                 limit=1):
               use = entry.user.id
               api = random.randint(8,9)
+              hacker = guild.get_member(entry.user.id)
               if entry.user.id == self.client.user.id or entry.user.id == guild.owner_id or str(entry.user.id) in wled or anti == "off" or wlroles in hacker.roles:
                return
               async with aiohttp.ClientSession(headers=self.headers) as session:
